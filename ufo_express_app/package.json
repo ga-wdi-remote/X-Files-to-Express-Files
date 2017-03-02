@@ -1,14 +1,14 @@
 {
   "name": "ufo_app",
   "version": "1.0.0",
-  "description": "Find UFO sightings in the sightings database",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "mocha tests/*.js",
     "start": "node server.js",
     "test-w": "mocha tests/*.js -w **/*.js"
   },
-  "author": "Harry Ganz <hganz@harryganz.com>",
+  "author": "Colin Hart",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.4.1",
